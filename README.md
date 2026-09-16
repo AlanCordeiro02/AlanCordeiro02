@@ -8,7 +8,7 @@ Atuo na área de garantia de qualidade e análise de sistemas, com foco em **des
 
 ### 🛠️ Tecnologias e Especialidades
 
-* **Linguagens & Ecossistema:** **Java** (Programação Orientada a Objetos, Manipulação de Dados e Estruturas), HTML/CSS
+* **Linguagens:** **Java** (Programação Orientada a Objetos, Manipulação de Dados e Estruturas), HTML/CSS
 * **Qualidade de Software:** Testes Manuais, Automação de Testes, Testes de Integração, QA Analysis
 * **Bancos de Dados:** SQL, PostgreSQL, Firebird
 * **Domínios:** Análise de Sistemas, Automação de Processos, Resolução de Desafios Técnicos
